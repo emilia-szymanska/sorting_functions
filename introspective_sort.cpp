@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 using namespace std;
 
 template <typename T>
@@ -212,7 +213,7 @@ T * sorting_function (T *tab, unsigned int index_left, unsigned int index_right,
 template <typename T>
 void introsort (T *tab, unsigned int length)
 {
-	sorting_function(tab, 0, length - 1, 5);
+	sorting_function(tab, 0, length - 1, log2(length));
 	insertion_sort(tab, 0, length - 1);
 }	
 
