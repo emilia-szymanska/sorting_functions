@@ -1,5 +1,5 @@
-#ifndef INTROSPECTIVE_SORT
-#define INTROSPECTIVE_SORT
+#ifndef INTROSPECTIVE_SORT_HH
+#define INTROSPECTIVE_SORT_HH
 
 #include <cmath> //for log2() function
 #include "heap.hh"

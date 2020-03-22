@@ -1,5 +1,5 @@
-#ifndef MERGE_SORT
-#define MERGE_SORT
+#ifndef MERGE_SORT_HH
+#define MERGE_SORT_HH
 
 #include <iostream>
 using namespace std;

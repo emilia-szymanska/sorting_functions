@@ -1,5 +1,5 @@
-#ifndef QUICK_SORT
-#define QUICK_SORT
+#ifndef QUICK_SORT_HH
+#define QUICK_SORT_HH
 
 #include <iostream>
 using namespace std;

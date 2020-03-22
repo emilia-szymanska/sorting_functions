@@ -1,5 +1,5 @@
-#ifndef HEAP
-#define HEAP
+#ifndef HEAP_HH
+#define HEAP_HH
 
 #include <iostream>
 using namespace std;
